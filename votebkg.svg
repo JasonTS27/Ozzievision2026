@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080mm"
+   height="1080mm"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4">
+      <stop
+         style="stop-color:#776927;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#3c3931;stop-opacity:1;"
+         offset="0.21139431"
+         id="stop11" />
+      <stop
+         style="stop-color:#051423;stop-opacity:1;"
+         offset="0.3748126"
+         id="stop8" />
+      <stop
+         style="stop-color:#00061e;stop-opacity:1;"
+         offset="0.46348274"
+         id="stop9" />
+      <stop
+         style="stop-color:#0f1124;stop-opacity:1;"
+         offset="0.56221884"
+         id="stop10" />
+      <stop
+         style="stop-color:#070e2e;stop-opacity:1;"
+         offset="0.62818587"
+         id="stop7" />
+      <stop
+         style="stop-color:#3b3d2c;stop-opacity:1;"
+         offset="0.82158917"
+         id="stop12" />
+      <stop
+         style="stop-color:#5c591b;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4"
+       id="linearGradient6"
+       x1="219.78479"
+       y1="920.34888"
+       x2="1088.3575"
+       y2="542.0654"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       height="1.184839"
+       width="1.3431017"
+       y="-0.092419489"
+       x="-0.17155087"
+       style="color-interpolation-filters:sRGB;"
+       id="filter12">
+      <feGaussianBlur
+         stdDeviation="78.0974 41.9106"
+         result="blur"
+         id="feGaussianBlur12" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 "
+         result="colormatrix"
+         id="feColorMatrix12" />
+      <feComposite
+         in="colormatrix"
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite12" />
+    </filter>
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient6);stroke-width:1.96544;-inkscape-stroke:none;fill-opacity:1;filter:url(#filter12)"
+       id="rect1"
+       width="1092.5841"
+       height="1088.3574"
+       x="-4.2266307"
+       y="-2.1133153"
+       ry="8.6264153" />
+  </g>
+</svg>
